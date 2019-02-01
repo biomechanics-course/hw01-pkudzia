@@ -1,0 +1,5 @@
+B. The final test is actually a demonstration of the computational error. Notice that the error
+decreases with step size only to a point. In a sentence or two, explain why.
+
+I think this is because there will always be computational error. 
+Intially the error is reduced via the function but it stabalizes for this resason. 
